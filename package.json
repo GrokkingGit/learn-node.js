@@ -1,0 +1,28 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "files": ["./src/**/*.js"],
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cli",
+    "weather"
+  ],
+  "author": "Chaban Serhii",
+  "license": "ISC",
+  "homepage": "https://serg.com",
+  "repository": {
+    "type": "git",
+    "url": "https://serg.com"
+  },
+  "bugs": {
+    "url": "https://serg.com",
+    "email": "chabanserg@gmail.com"
+  }
+
+}
